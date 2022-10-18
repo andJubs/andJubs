@@ -7,12 +7,14 @@
 </div>
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Júlia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Júlia-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Júlia-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Júlia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Júlia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Júlia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Júlia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Júlia-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Júlia-pic" height="150" style="border-radius:50px;" src="https://drive.google.com/file/d/1Ctp4E9KaFtQcAxOW95ShcMKbn-HVTgcf/view?usp=sharing">
+  
+  <img align="right" alt="Júlia-pic" height="150" width="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/643131315994099732/1031961227628380170/andJubs.gif.gif">
 </div>
   
   ##
