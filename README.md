@@ -24,6 +24,6 @@
   <a href = "mailto:julia.andressa@icloud.com"><img src="https://img.shields.io/badge/-mail-%23333?style=for-the-badge&logo=icloud&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/j%C3%BAlia-souza-4a9760169" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   
-  ![Snake animation](https://github.com/andJubs/andJubs/blob/output/github-contribution-grid-snake.svg)
+  <!-- ![Snake animation](https://github.com/andJubs/andJubs/blob/output/github-contribution-grid-snake.svg) -->
  
 </div>
