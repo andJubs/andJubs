@@ -8,8 +8,6 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Júlia-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Júlia-Spring_Boot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/springboot/springboot-original.svg">
-   <img align="center" alt="Júlia-Thymeleaf" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/thymeleaf/thymeleaf-original.svg">
   <img align="center" alt="Júlia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Júlia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Júlia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
